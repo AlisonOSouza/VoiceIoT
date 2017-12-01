@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">VoiceIoT</string>
+    <string name="action_settings">Settings</string>
+    <string name="voice_rocognizer_not_found">Voice recognizer not found</string>
+    <string name="push_to_talk">Push the button below and talk</string>
+    <string name="server_settings">Server Settings</string>
+    <string name="database_settings">Database Settings</string>
+    <string name="ip_settings">IP Address</string>
+    <string name="ip_hint">Set the IP address of the server</string>
+    <string name="port_settings">Port Number</string>
+    <string name="port_hint">Set the port number of the server</string>
+    <string name="user">User</string>
+    <string name="user_hint">Set the user\'s login of ManIoT database</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Set the password of ManIoT database</string>
+</resources>

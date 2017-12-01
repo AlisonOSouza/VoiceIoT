@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Configurações</string>
+    <string name="push_to_talk">Pressione o botão abaixo e fale</string>
+    <string name="voice_rocognizer_not_found">Reconhecedor de voz não encontrado</string>
+    <string name="ip_settings">Endereço IP</string>
+    <string name="server_settings">Configurações do Servidor</string>
+    <string name="ip_hint">Adicione o endereço IP do servidor</string>
+    <string name="port_hint">Adicione o número da porta do servidor</string>
+    <string name="port_settings">Número da Porta</string>
+    <string name="user_hint">Insira o login do usuário do banco de dados do ManIoT</string>
+    <string name="user">Usuário</string>
+    <string name="password_hint">Insira a senha do banco de dados do ManIoT</string>
+    <string name="password">Senha</string>
+    <string name="database_settings">Configurações do Banco de Dados</string>
+</resources>

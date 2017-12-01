@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/server_settings" >
+
+        <!--suppress AndroidDomInspection -->
+        <EditTextPreference
+            android:key="ip_address"
+            android:title="@string/ip_settings"
+            android:defaultValue="0.0.0.0"
+            android:persistent="true"
+            android:summary="@string/ip_hint" />
+
+        <EditTextPreference
+            android:key="port_number"
+            android:title="@string/port_settings"
+            android:defaultValue="0"
+            android:numeric="integer"
+            android:persistent="true"
+            android:summary="@string/port_hint" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/database_settings" >
+        <EditTextPreference
+            android:key="user"
+            android:title="@string/user"
+            android:persistent="true"
+            android:summary="@string/user_hint" />
+
+        <EditTextPreference
+            android:key="password"
+            android:title="@string/password"
+            android:password="true"
+            android:persistent="true"
+            android:summary="@string/password_hint" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
