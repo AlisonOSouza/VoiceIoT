@@ -8,9 +8,9 @@
     <string name="ip_hint">Adicione o endereço IP do servidor</string>
     <string name="port_hint">Adicione o número da porta do servidor</string>
     <string name="port_settings">Número da Porta</string>
-    <string name="user_hint">Insira o login do usuário do banco de dados do ManIoT</string>
+    <string name="user_hint">Insira o login do usuário do ManIoT</string>
     <string name="user">Usuário</string>
-    <string name="password_hint">Insira a senha do banco de dados do ManIoT</string>
+    <string name="password_hint">Insira a senha do usuário do ManIoT</string>
     <string name="password">Senha</string>
-    <string name="database_settings">Configurações do Banco de Dados</string>
+    <string name="user_settings">Configurações do Usuário</string>
 </resources>

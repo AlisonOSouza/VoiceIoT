@@ -23,7 +23,8 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:title="@string/database_settings" >
+        android:title="@string/user_settings" >
+
         <EditTextPreference
             android:key="user"
             android:title="@string/user"
@@ -38,5 +39,16 @@
             android:summary="@string/password_hint" />
 
     </PreferenceCategory>
+
+    <!--<PreferenceCategory-->
+        <!--android:title="Dispositivos">-->
+
+        <!--<MultiSelectListPreference-->
+            <!--android:key="multlist"-->
+            <!--android:title="Lista de Dispositivos"-->
+            <!--android:entries="@array/Language"-->
+            <!--android:entryValues="@array/languageAlias"/>-->
+
+    <!--</PreferenceCategory>-->
 
 </PreferenceScreen>

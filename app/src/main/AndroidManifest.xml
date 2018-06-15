@@ -20,13 +20,6 @@
         </activity>
 
         <!-- Necessario adicionar essas tags a cada nova tela criada -->
-        <activity android:name=".DisplayMessageActivity"
-            android:parentActivityName=".VoiceActivity" >
-            <!-- The meta-data tag is required if you support API level 15 and lower -->
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".VoiceActivity" />
-        </activity>
 
         <!-- Necessario adicionar essas tags a cada nova tela criada -->
         <activity android:name=".Settings"
@@ -36,6 +29,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".VoiceActivity" />
         </activity>
+
+        <!-- Necessario adicionar essas tags a cada nova tela criada -->
 
     </application>
 

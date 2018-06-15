@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Language">
+        <item>Wemo</item>
+        <item>Lâmpada</item>
+        <item>Ar Condicionado</item>
+        <item>Sensor de porta</item>
+        <item>Iris</item>
+    </string-array>
+
+    <string-array name="languageAlias">
+        <item>"wemo"</item>
+        <item>"lampada"</item>
+        <item>"ar"</item>
+        <item>"porta"</item>
+        <item>"iris"</item>
+    </string-array>
+
+</resources>
